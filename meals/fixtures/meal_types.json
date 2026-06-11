@@ -1,0 +1,6 @@
+[
+    {"model": "meals.mealtype", "pk": 1, "fields": {"name": "Завтрак", "icon": "sunny", "order": 1}},
+    {"model": "meals.mealtype", "pk": 2, "fields": {"name": "Обед", "icon": "restaurant", "order": 2}},
+    {"model": "meals.mealtype", "pk": 3, "fields": {"name": "Ужин", "icon": "moon", "order": 3}},
+    {"model": "meals.mealtype", "pk": 4, "fields": {"name": "Перекус", "icon": "cafe", "order": 4}}
+]
